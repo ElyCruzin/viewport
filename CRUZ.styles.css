@@ -400,8 +400,8 @@ img{
 /* ---------- ADJUSTING RESPONSIVE IMAGE SIZE ---------- */
 /* --------------- BEGIN RESPONSIVE IMAGE ADJUST SIZES --------------- */
      img{
-        width: 15em;
-        max-width: 20em;
+        width: 45%;
+        max-width: 55%;
     } 
 /* --------------- END RESPONSIVE IMAGE ADJUST SIZES --------------- */
 
